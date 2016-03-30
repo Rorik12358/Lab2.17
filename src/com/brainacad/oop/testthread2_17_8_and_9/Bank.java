@@ -1,4 +1,4 @@
-package com.brainacad.oop.testthread2_17_8;
+package com.brainacad.oop.testthread2_17_8_and_9;
 
 /**
  * Created by R2-D2 on 28.03.2016.
